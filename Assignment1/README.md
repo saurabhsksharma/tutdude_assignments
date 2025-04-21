@@ -1,7 +1,7 @@
 # ASSIGNMENT 1:
 ## Module 2: Basic Python Concepts
 
-### [Task 1: Perform Basic Mathematical Operations](./Assignment1/Task1.py)
+### [Task 1: Perform Basic Mathematical Operations](./Task1.py)
 Problem Statement: Write a Python program that does the following:
 1.  Takes two numbers as input from the user.
 2.  Performs the basic mathematical operations on these two numbers:
@@ -24,7 +24,7 @@ Division:  0.5
 ```
 
 
-### [Task 2: Create a Personalized Greeting](./Assignment1/Task2.py)
+### [Task 2: Create a Personalized Greeting](./Task2.py)
 Problem Statement: Write a Python program that:
 1.  Takes a user's first name and last name as input.
 2.  Concatenates the first name and last name into a full name.
